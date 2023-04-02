@@ -28,4 +28,4 @@ Seaborn
 
 * Apply some relations between informational data and then create and visualize tables and graphs using pandas and seaborn. <br>
 
-Complete project: YouTube Channels Data Analysis (YT-Analysis-Project).ipynb
+Complete project: https://github.com/Himanshu-Joshi123/Analyze-and-visualize-YouTube-channel-data-/blob/db7e6aa3219dda35d8db94177144eb30f736eb4a/YouTube%20Channels%20Data%20Analysis%20(YT-Analysis-Project).ipynb
